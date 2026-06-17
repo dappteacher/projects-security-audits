@@ -6,7 +6,7 @@ This repository contains my security analysis and audit reports for real-world, 
 
 The goal of this repository is to:
 
-* Practice and showcase smart contract auditing skills
+* Real projects audits
 * Identify vulnerabilities and security risks
 * Provide clear and structured audit reports
 
