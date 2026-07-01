@@ -32,6 +32,12 @@ Each audit typically includes:
 
 These audits are for educational and research purposes only. They do not guarantee complete security of the analyzed contracts.
 
-## 📬 Contact
+---
 
-Feel free to reach out for collaboration or feedback.
+### Connect
+
+* GitHub: [https://github.com/dappteacher](https://github.com/dappteacher)
+* Gas Analyzer: [https://github.com/dappteacher/gas-analyzer](https://github.com/dappteacher/gas-analyzer)
+* LinkedIn: [https://linkedin.com/in/dappteacher](https://linkedin.com/in/dappteacher)
+
+---
